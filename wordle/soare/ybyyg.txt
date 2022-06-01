@@ -1,0 +1,2 @@
+Initial reduction to 8 words:arise, parse, raise, carse, farse, marse, rasse, ursae
+Best guesses, averaging 1.25 remaining words: crimp campi carpi farci fasci mafic

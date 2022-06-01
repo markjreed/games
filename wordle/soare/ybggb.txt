@@ -1,0 +1,2 @@
+Initial reduction to 22 words:afars, agars, arars, chars, czars, duars, fiars, gnars, guars, haars, izars, kbars, knars, ksars, kyars, liars, maars, thars, tiars, tsars, tzars, yaars
+Best guesses, averaging 3.45454545454545 remaining words: kight

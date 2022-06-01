@@ -1,0 +1,2 @@
+Initial reduction to 257 words.
+Best guesses, averaging 26.9688715953307 remaining words: talar

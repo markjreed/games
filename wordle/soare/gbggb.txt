@@ -1,0 +1,2 @@
+Initial reduction to 31 words:scarf, scary, shard, shark, sharp, smart, snarl, spark, stark, start, swarm, scarp, scars, scart, sharn, skart, slart, smarm, snarf, snark, snars, snary, spard, spars, spart, starn, starr, stars, sward, swarf, swart
+Best guesses, averaging 4.74193548387097 remaining words: chant nicht

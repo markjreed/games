@@ -1,0 +1,2 @@
+Initial reduction to 128 words.
+Best guesses, averaging 10.4375 remaining words: build

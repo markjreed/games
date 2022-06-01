@@ -1,0 +1,2 @@
+Initial reduction to 15 words:alert, avert, extra, terra, zebra, acerb, aiery, apert, apery, faery, hejra, lepra, maerl, tetra, verra
+Best guesses, averaging 1.53333333333333 remaining words: aptly tabla

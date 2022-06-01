@@ -1,0 +1,2 @@
+Initial reduction to 7 words:score, shore, snore, spore, store, swore, smore
+Best guesses, averaging 1.85714285714286 remaining words: potch tench wecht whipt whomp whump

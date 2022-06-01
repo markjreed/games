@@ -1,0 +1,2 @@
+Initial reduction to 4 words:doers, goers, hoers, moers
+Best guesses, averaging 1 remaining words: ogham

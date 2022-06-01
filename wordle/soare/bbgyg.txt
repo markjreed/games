@@ -1,0 +1,2 @@
+Initial reduction to 39 words:brace, brake, brave, crane, crate, crave, craze, drake, drape, frame, grace, grade, grape, grate, grave, graze, irate, trace, trade, arame, brame, brane, braze, crake, crame, crape, drave, frape, frate, grame, irade, prate, reame, reate, reave, trape, trave, urate, wrate
+Best guesses, averaging 6.28205128205128 remaining words: compt

@@ -1,0 +1,2 @@
+Initial reduction to 13 words:salve, sauce, saute, sable, sadhe, saice, saine, salle, salse, salue, sasse, sayne, setae
+Best guesses, averaging 1.46153846153846 remaining words: tulsi

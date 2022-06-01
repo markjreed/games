@@ -1,0 +1,2 @@
+Initial reduction to 9 words:horse, rouse, worse, corse, dorse, gorse, morse, roose, torse
+Best guesses, averaging 2.33333333333333 remaining words: dutch thrum chout mutch

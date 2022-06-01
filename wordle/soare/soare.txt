@@ -1,0 +1,175 @@
+bbbbb:  linty
+bbbbg:  linum
+bbbby:  tiled
+bbbgb:  culti
+bbbgg:  tunic fient tumid
+bbbgy:  teend
+bbbyb:  guilt
+bbbyg:  cuing
+bbbyy:  lited
+bbgbb:  clint
+bbgbg:  clung
+bbgby:  melty
+bbggb:  clint
+bbggg:  belch felch leugh
+bbggy:  lyted
+bbgyb:  clint
+bbgyg:  compt
+bbgyy:  child deity cited dicty lyted ticed ycled
+bbybb:  linty
+bbybg:  glint
+bbyby:  datal
+bbygb:  daily
+bbygg:  agrin garni
+bbygy:  aptly tabla
+bbyyb:  marid
+bbyyg:  large largo
+bbyyy:  talar
+bgbbb:  linty
+bgbbg:  build
+bgbby:  lynch
+bgbgb:  ycond
+bgbgg:  zilch
+bgbyb:  dirty
+bgbyg:  burfi
+bgbyy:  pwned
+bggbb:  culty
+bggbg:  zilch zlote zloty
+bggby:  hoaed zoaea
+bgggb:  redub rhody rhyta techy tichy
+bggyb:  roach
+bggyg:  roate
+bgybb:  linac
+bgybg:  vatic vetch
+bgyby:  hovea
+bgygb:  mucid
+bgyyb:  mural
+bgyyg:  morae porae
+bybbb:  clint
+bybbg:  clomp
+bybby:  melon pelon
+bybgb:  litho tichy
+bybgg:  broch brock
+bybgy:  punto
+bybyb:  cutin
+bybyg:  bundt
+bybyy:  tenor
+bygbb:  owing linum mucin
+bygbg:  ovate
+bygby:  beano
+byggb:  ovary otary
+bygyb:  octyl oucht tacho
+bygyg:  orate
+bygyy:  realo
+byybb:  talon
+byybg:  blond
+byyby:  manet olent
+byygb:  adopt
+byygy:  opera
+byyyb:  baton
+byyyy:  oaker oater tared tarps yarto
+gbbbb:  knits
+gbbbg:  linty
+gbbby:  lites
+gbbgb:  kilts
+gbbgg:  piety pithy
+gbbgy:  khets
+gbbyb:  pithy gumps pight
+gbbyg:  puces pudic pugil repeg unpeg
+gbbyy:  peril
+gbgbb:  hilts
+gbgbg:  depth
+gbgby:  melts
+gbggb:  chant nicht
+gbggg:  wench tench wecht
+gbggy:  sears
+gbgyb:  stair scaur
+gbgyy:  spaer
+gbybb:  nails
+gbybg:  tulsi
+gbyby:  lants
+gbygb:  purda yurta yurts
+gbygg:  sabre
+gbygy:  serra
+gbyyb:  typic
+gbyyg:  unget varec yates
+gbyyy:  fewer newer twyer warby weber
+ggbbb:  lunts
+ggbbg:  clown
+ggbby:  lions
+ggbgb:  sorry sours
+ggbyb:  budos bunds burds
+ggbyg:  soree
+ggbyy:  lords
+gggbb:  soapy soaks soaps
+gggbg:  soave
+ggggb:  soars
+ggggg:  soare
+ggybb:  films flams flims milfs
+ggygb:  sopra sorra
+ggyyb:  nurls ulnar unlaw
+gybbb:  plots
+gybbg:  cloth
+gybby:  pelon pelts
+gybgb:  knelt thank think nempt thunk
+gybgg:  potch tench wecht whipt whomp whump
+gybgy:  shero
+gybyb:  scowp
+gybyy:  senor seron serow
+gygbb:  shako spado
+gyybb:  talon
+gyybg:  stoae
+ybbbb:  lints
+ybbbg:  musit
+ybbby:  inlet
+ybbgb:  burnt
+ybbgg:  usure
+ybbgy:  built
+ybbyb:  dirts
+ybbyg:  purin
+ybbyy:  tired
+ybgbb:  clint
+ybgbg:  letup
+ybgby:  dealt
+ybggb:  kight
+ybggy:  glyph
+ybgyb:  kydst
+ybgyy:  tined trild
+ybybb:  unlit
+ybybg:  pashm
+ybyby:  malts
+ybygb:  guimp
+ybygy:  vocab vulgo
+ybyyb:  diram
+ybyyg:  crimp campi carpi farci fasci mafic
+ybyyy:  rates
+ygbbb:  blunt
+ygbbg:  tulip
+ygbby:  lyted
+ygbgb:  chout
+ygbgy:  ogham
+ygbyb:  dirty
+ygbyg:  dutch thrum chout mutch
+ygbyy:  purls
+yggbb:  delft
+ygggb:  rehab rhomb rhumb
+ygybb:  mitch
+ygyby:  toeas zoeas
+ygyyb:  mutha myths tagma thema thigs thugs tombs
+yybbb:  pilus
+yybbg:  wroth
+yybby:  pelon
+yybgb:  zilch
+yybgy:  meynt monty mynas myxos
+yybyb:  gript
+yybyg:  upbye
+yybyy:  deros
+yygbb:  imply phyla
+yygyb:  praos uraos
+yyybb:  altos
+yyybg:  psoae
+yyyby:  oases oaves paseo waves
+yyygb:  aspro psora
+yyyyb:  carat afros carks faros taroc
+yyyyg:  arose
+yyyyy:  aeros

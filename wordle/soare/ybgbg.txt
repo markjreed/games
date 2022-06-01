@@ -1,0 +1,2 @@
+Initial reduction to 15 words:abase, cease, chase, lease, phase, tease, usage, blase, fease, lyase, mease, pease, tsade, ukase, ysame
+Best guesses, averaging 1.93333333333333 remaining words: letup

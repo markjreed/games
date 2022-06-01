@@ -1,0 +1,2 @@
+Initial reduction to 12 words:bears, dears, fears, gears, hears, lears, nears, pears, rears, tears, wears, years
+Best guesses, averaging 4.5 remaining words: glyph

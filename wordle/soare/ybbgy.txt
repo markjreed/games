@@ -1,0 +1,2 @@
+Initial reduction to 34 words:beers, biers, brers, deers, dyers, egers, emirs, ewers, eyers, feers, fiers, heirs, huers, icers, jeers, keirs, kiers, leers, lehrs, leirs, liers, meers, peers, piers, puers, ruers, teers, tehrs, tiers, tyers, users, veers, viers, weirs
+Best guesses, averaging 5.05882352941176 remaining words: built

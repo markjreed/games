@@ -1,0 +1,2 @@
+Initial reduction to 3 words:prose, brose, erose
+Best guesses, averaging 1 remaining words: upbye

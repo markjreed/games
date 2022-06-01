@@ -1,0 +1,2 @@
+Initial reduction to 1 words:roate
+Best guesses, averaging 1 remaining words: roate

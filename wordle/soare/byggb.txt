@@ -1,0 +1,2 @@
+Initial reduction to 3 words:ovary, claro, otary
+Best guesses, averaging 1 remaining words: ovary otary

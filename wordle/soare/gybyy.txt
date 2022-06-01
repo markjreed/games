@@ -1,0 +1,2 @@
+Initial reduction to 5 words:senor, seron, serow, servo, shoer
+Best guesses, averaging 1 remaining words: senor seron serow

@@ -1,0 +1,2 @@
+Initial reduction to 3 words:erase, prase, urase
+Best guesses, averaging 1 remaining words: 

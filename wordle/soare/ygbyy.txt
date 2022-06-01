@@ -1,0 +1,2 @@
+Initial reduction to 31 words:loser, poser, bores, cores, dores, doser, eorls, fores, gores, hoser, kores, lores, mores, noser, pores, robes, rodes, rohes, rokes, roles, rones, ropes, rores, rosed, roses, roset, rotes, roues, roves, tores, yores
+Best guesses, averaging 6.35483870967742 remaining words: purls

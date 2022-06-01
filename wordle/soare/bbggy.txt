@@ -1,0 +1,2 @@
+Initial reduction to 16 words:beard, heard, heart, learn, pearl, rearm, teary, weary, yearn, dearn, deary, enarm, feart, leary, peart, yeard
+Best guesses, averaging 1.75 remaining words: lyted

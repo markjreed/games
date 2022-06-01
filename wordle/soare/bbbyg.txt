@@ -1,0 +1,2 @@
+Initial reduction to 127 words.
+Best guesses, averaging 10.0708661417323 remaining words: cuing

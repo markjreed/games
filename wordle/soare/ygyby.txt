@@ -1,0 +1,2 @@
+Initial reduction to 2 words:toeas, zoeas
+Best guesses, averaging 1 remaining words: toeas zoeas

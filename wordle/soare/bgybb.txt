@@ -1,0 +1,2 @@
+Initial reduction to 132 words.
+Best guesses, averaging 9.13636363636364 remaining words: linac

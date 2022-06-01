@@ -1,0 +1,2 @@
+Initial reduction to 16 words:solve, socle, solde, sonce, sonde, sonne, sonse, soole, soote, souce, souse, sowce, sowle, sowne, sowse, soyle
+Best guesses, averaging 1.75 remaining words: clown

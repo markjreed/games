@@ -1,0 +1,2 @@
+Initial reduction to 21 words:scone, scope, shone, shove, slope, smoke, smote, spoke, stoke, stole, stone, stove, shmoe, shope, shote, slove, snoke, spode, stope, swole, syboe
+Best guesses, averaging 2.61904761904762 remaining words: cloth

@@ -1,0 +1,2 @@
+Initial reduction to 43 words:alarm, apart, award, chard, charm, chart, diary, dwarf, guard, quark, quart, tiara, wharf, acari, afara, alary, awarn, blart, chara, chark, charr, chary, clart, clary, flary, glary, gnarl, gnarr, imari, inarm, izard, knarl, laari, liard, liart, lyard, lyart, pharm, tharm, tuart, unarm, unary, urari
+Best guesses, averaging 3.74418604651163 remaining words: clint

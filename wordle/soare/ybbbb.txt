@@ -1,0 +1,2 @@
+Initial reduction to 505 words.
+Best guesses, averaging 24.1168316831683 remaining words: lints

@@ -1,0 +1,2 @@
+Initial reduction to 608 words.
+Best guesses, averaging 21.7434210526316 remaining words: tiled

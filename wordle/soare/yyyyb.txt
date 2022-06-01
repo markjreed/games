@@ -1,0 +1,2 @@
+Initial reduction to 15 words:arson, acros, afros, agros, arcos, arvos, faros, haros, karos, okras, orcas, oscar, proas, ratos, taros
+Best guesses, averaging 1.8 remaining words: carat afros carks faros taroc

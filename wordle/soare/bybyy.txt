@@ -1,0 +1,2 @@
+Initial reduction to 64 words:credo, decor, error, heron, odder, offer, older, order, other, otter, outer, owner, tenor, berko, berob, bevor, ceroc, enrol, ephor, ergon, ergot, erugo, fetor, freon, grebo, grego, nerol, ocher, ocker, ofter, ogler, oiler, oller, omber, oncer, opter, orbed, oriel, ormer, owler, oxter, perog, pervo, preon, preop, proem, rebop, recco, recon, recto, redon, redox, reffo, reggo, rejon, rello, reoil, repot, retox, rewon, twoer, uredo, vireo, xerox
+Best guesses, averaging 6.53125 remaining words: tenor

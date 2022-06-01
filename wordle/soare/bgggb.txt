@@ -1,0 +1,2 @@
+Initial reduction to 7 words:board, hoard, boart, coarb, goary, hoary, roary
+Best guesses, averaging 1.28571428571429 remaining words: redub rhody rhyta techy tichy

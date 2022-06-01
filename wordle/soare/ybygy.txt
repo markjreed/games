@@ -1,0 +1,2 @@
+Initial reduction to 6 words:abers, acers, agers, apers, avers, laers
+Best guesses, averaging 2 remaining words: vocab vulgo

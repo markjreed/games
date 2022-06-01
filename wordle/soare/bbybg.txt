@@ -1,0 +1,2 @@
+Initial reduction to 156 words.
+Best guesses, averaging 10.2435897435897 remaining words: glint

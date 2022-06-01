@@ -1,0 +1,2 @@
+Initial reduction to 2 words:stair, scaur
+Best guesses, averaging 1 remaining words: stair scaur

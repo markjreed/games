@@ -1,0 +1,2 @@
+Initial reduction to 5 words:aeons, aloes, oases, oaves, paseo
+Best guesses, averaging 1 remaining words: oases oaves paseo waves

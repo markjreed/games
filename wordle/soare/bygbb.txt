@@ -1,0 +1,2 @@
+Initial reduction to 19 words:piano, alamo, awato, chaco, chado, cyano, diazo, guaco, guano, igapo, imago, llano, miaou, miaow, ngaio, obang, okapi, otaku, whamo
+Best guesses, averaging 1.63157894736842 remaining words: owing linum mucin

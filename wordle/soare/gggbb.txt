@@ -1,0 +1,2 @@
+Initial reduction to 3 words:soapy, soaks, soaps
+Best guesses, averaging 1 remaining words: soapy soaks soaps

@@ -1,0 +1,2 @@
+Initial reduction to 4 words:roast, roads, roams, roans
+Best guesses, averaging 1 remaining words: 
